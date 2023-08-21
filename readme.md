@@ -25,4 +25,4 @@ Whenever you open terminal, these build up style texts will pop up. If not neede
 If permanently not needed, go to the same file and delete all the entered lines...
 
 
-Contact me for any enquiries in instagram... @rahul.thewhitehat
+Contact me for any enquiries in instagram... @rahulthewhitehat_
